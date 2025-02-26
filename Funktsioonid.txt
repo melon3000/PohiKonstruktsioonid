@@ -1,0 +1,45 @@
+# --------------------------------------
+
+type()
+int()
+float()
+str()
+
+input()
+
+# --------------------------------------
+
+.upper()
+.lower()
+.capitalize()
+
+# --------------------------------------
+from math import *
+
+pi
+sqrt()
+round(num1, num2)
+	round(25.43634, 2) -> 25.44
+
+# --------------------------------------
+from datetime import *
+
+date.today()
+date()
+.strftime()
+	.strftime("%d/%m/%Y") 27/12/2022
+	.strftime("%B %d, %Y") December 27, 2022
+	.strftime("%m/%d/%y") 12/27/22
+	.strftime("%b-%d-%Y") Dec-27-2022
+
+date.day
+date.month
+date.year
+
+# --------------------------------------
+from calendar import *
+
+monthrange(year, month)[0]
+monthrange(year, month)[1]
+
+# --------------------------------------
