@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4a5591d3-20e2-4ce2-94bc-4d2467df59d9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Pohikonstruktsioonid3.py</StartupFile>
+    <StartupFile>Pohikonstruktsioonid6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,6 +27,7 @@
     <Compile Include="Pohikonstruktsioonid3.py" />
     <Compile Include="Pohikonstruktsioonid4.py" />
     <Compile Include="Pohikonstruktsioonid5.py" />
+    <Compile Include="Pohikonstruktsioonid6.py" />
     <Compile Include="ÜlesandedIF.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
